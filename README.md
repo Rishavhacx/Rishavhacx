@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on android projects
 - 📫 How to reach me - http://www.instagram.com/rish_avvv
+- 💌 Email - rishavsharma1999@gmail.com
 
 <!---
 Rishavhacx/Rishavhacx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
