@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rishavhacx
-- 👀 I’m interested in YouTube
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on android projects
+- 👋 Hi, I’m Rishav
+- 👀 I’m have 10k+ on YouTube @Rishavhacx
+- 🌱 I’m working in Wipro as Scholar Trainee
+- 💞️ I’m looking to collaborate on web dev projects.
 - 📫 How to reach me - http://www.instagram.com/rish_avvv
 - 💌 Email - rishavsharma1999@gmail.com
 
