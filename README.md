@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishav
-- 👀 I’m have 10k+ on YouTube @Rishavhacx
+- 👀 I’m having 10k+ on YouTube @Rishavhacx
 - 🌱 I’m working in Wipro as Scholar Trainee
 - 💞️ I’m looking to collaborate on web dev projects.
 - 📫 How to reach me - http://www.instagram.com/rish_avvv
